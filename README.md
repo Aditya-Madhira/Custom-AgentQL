@@ -16,9 +16,3 @@ Current version focuses on basic web scraping and content analysis using Groq AI
 ### Important Note
 This application currently only scrapes and analyzes web content in its basic form.
 
-### Need to research and implement the following
-- Custom information extraction using LLM
-- Enhanced scraping capabilities to handle dynamic HTML structures
-- Improved parsing for complex webpage layouts
-- Stealth mode like Agent Ql
-
