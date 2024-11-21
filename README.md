@@ -1,4 +1,4 @@
-# Custom Agent QL
+# Website summarizer (v1)
 
 A web content analyzer powered by Groq AI.
 
